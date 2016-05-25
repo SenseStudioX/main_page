@@ -1,2 +1,2 @@
-# sensestudiox.github.io
-home page of sensestudio
+# xsensestudio.com
+Home Page of XSenseStudio
